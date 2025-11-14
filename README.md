@@ -19,3 +19,32 @@ This is a simple Blackjack card game application built as a web interface. The u
     *   **Stand:** End the turn and let the dealer play.
 *   **Game Status:** The application clearly displays the status of the game, including the winner or if it's a draw.
 *   **Play Again:** Users can easily start a new game after a round is completed.
+
+## Getting Started
+
+Follow these steps to get the project up and running on your local machine.
+
+### Installation
+
+1.  Clone the repository:
+    ```bash
+    git clone https://github.com/dev-lukaszglowacki/blackjack.git
+    ```
+2.  Navigate to the project directory:
+    ```bash
+    cd blackjack
+    ```
+3.  Install the dependencies:
+    ```bash
+    npm install
+    ```
+
+### Running the Application
+
+To start the development server, run:
+
+```bash
+npm run dev
+```
+
+This will open the application in your browser at `http://localhost:3000`.
